@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on creating a SaaS platform
-🌱 I’m currently learning various cloud platforms and their use cases
-👯 I am searching for an open-source project to collaborate on that positively impacts me.
-🤔 I’m looking for help with creating a SaaS platform
+👨‍💻 Founder of LandingMin | Full-stack developer focused on user-friendly web apps | Crafting tools to make UI design faster and easie
 <!--
 **harshana-uda/harshana-uda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
